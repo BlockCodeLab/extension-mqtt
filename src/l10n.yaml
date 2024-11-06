@@ -1,0 +1,23 @@
+en:
+  extension.mqtt.name: MQTT
+  extension.mqtt.connect: connect to MQTT broker [URL]
+  extension.mqtt.whenConnected: when connected to MQTT broker
+  extension.mqtt.isConnected: connected to MQTT broker?
+  extension.mqtt.whenReceived: when I receive from [TOPIC] topic
+  extension.mqtt.message: last message from [TOPIC] topic
+  extension.mqtt.publish: publish message [MESSAGE] to [TOPIC] topic
+  extension.mqtt.message.topic: topic
+  extension.mqtt.message.content: content
+  extension.mqtt.end: disconnect
+
+zh-Hans:
+  extension.mqtt.name: MQTT 协议
+  extension.mqtt.connect: 连接到 MQTT 服务器 [URL]
+  extension.mqtt.whenConnected: 当连接到 MQTT 服务器
+  extension.mqtt.isConnected: 连接到 MQTT 服务器？
+  extension.mqtt.whenReceived: 当接收到来自主题 [TOPIC] 的消息
+  extension.mqtt.message: 主题 [TOPIC] 最后的消息
+  extension.mqtt.publish: 向主题 [TOPIC] 发送消息 [MESSAGE]
+  extension.mqtt.message.topic: 标题
+  extension.mqtt.message.content: 内容
+  extension.mqtt.end: 结束连接
