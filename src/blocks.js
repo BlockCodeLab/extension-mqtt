@@ -4,8 +4,6 @@ import translations from './l10n.yaml';
 import iconURI from './icon.svg';
 import mqttPyURI from './mqtt.py';
 
-const DIALOGS_LENGTH = 3;
-
 export default {
   iconURI,
   name: (
